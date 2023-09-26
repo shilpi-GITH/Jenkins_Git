@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is D8A8-355E
+
+ Directory of D:\Tools\MyProject
+
+09/26/2023  10:25 PM    <DIR>          .
+09/26/2023  10:25 PM    <DIR>          ..
+09/26/2023  10:25 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  278,695,190,528 bytes free
