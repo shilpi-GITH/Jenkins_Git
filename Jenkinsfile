@@ -15,7 +15,7 @@ pipeline {
 
     stage('Release') {
       steps {
-        build(job: 'Test2', quietPeriod: 5)
+        build 'Test2'
       }
     }
 
